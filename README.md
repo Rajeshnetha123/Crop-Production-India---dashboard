@@ -7,8 +7,10 @@ It transforms complex, large-scale crop production data into clear, actionable i
 agricultural firms, and researchers.
 
 **🛠️ Technical Specifications**
+
 🟡Primary Tool: Power BI (for data modeling, visualization, and interactivity).
 Core Skillset: Advanced Data Visualization, Comparative Analysis, Market Research Simulation.
+
 🟡Source File: crop_production-India.pbix (The interactive Power BI file).
 
 **🚀 Key Insights Visualized**
